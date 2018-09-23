@@ -1,4 +1,4 @@
-FROM php:7.3.0
+FROM php:7.2.10
 MAINTAINER sawadashota <xiootas@gmail.com>
 
 ENV APP_DIR /var/www/html
